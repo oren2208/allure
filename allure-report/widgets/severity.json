@@ -1,0 +1,21 @@
+[ {
+  "uid" : "42a2f9b868d46475",
+  "name" : "Invalid Login Scenario with wrong username and password.",
+  "time" : {
+    "start" : 1627913096000,
+    "stop" : 1627913097335,
+    "duration" : 1335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "beb80422bb86c22f",
+  "name" : "Invalid Login Scenario with wrong username and password.",
+  "time" : {
+    "start" : 1627913060625,
+    "stop" : 1627913061931,
+    "duration" : 1306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
